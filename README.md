@@ -31,17 +31,17 @@ I mainly work with Javascript/Nose.js, Java/Spring Boot and React, with experien
 I also enjoy exploring Linux and troubleshooting technical problems to understand how things work under the hood.<br/>
 
 **<h2>Tech Stack</h2>**
-- <b>Languages: </b>Java · JavaScript
-- <b>Backend: </b>Spring Boot · Spring Security · Node.js
-- <b>Frontend: </b>React · Vite · HTML5 · CSS3
-- <b>Databases: </b>MongoDB · Redis
-- <b>Tools & Environment: </b>Git · GitHub · Linux · VS Code
+- **Languages:** Java · JavaScript
+- **Backend:** Spring Boot · Spring Security · Node.js
+- **Frontend:** React · Vite · HTML5 · CSS3
+- **Databases:** MongoDB · Redis
+- **Tools & Environment:** Git · GitHub · Linux · VS Code
 
 **<h2>Current projects</h2>**
   - <div>
-    <h4>NikoMusic</h4>
-    <p>NikoMusic is a free web music player!</p>
-  </div>
+      <h4>NikoMusic</h4>
+      <p>NikoMusic is a free web music player!</p>
+    </div>
 
 **<h2 align="left">GitHub Stats</h2>**
 <p align="left">
