@@ -1,5 +1,5 @@
 ![Hi, my name is Santiago Sarria](/src/img/github-header-banner.png)
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: space-between;">
   <img src="https://skillicons.dev/icons?i=java" height="28" alt="Java" style="margin-right: 4px"> 
   <img src="https://skillicons.dev/icons?i=spring" height="28" alt="Spring" style="margin-right: 4px"> 
   <img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript" style="margin-right: 4px"> 
