@@ -1,4 +1,4 @@
-![Hi, my name is Santiago Sarria](./src/img/github-header-banner%20.png)
+![Hi, my name is Santiago Sarria](/src/img/github-header-banner.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -11,9 +11,9 @@
 </div>
 
 **<h3>About me</h3>**
-I'm a Software Development student passionate about building applications, learning new technologies, and solving technical problems.
-I mainly work with Javascript/Nose.js, Java/Spring Boot and React, with experience working with databases, authentication, REST APIs and full-stack applications.
-I also enjoy exploring Linux and troubleshooting technical problems to understand how things work under the hood.
+I'm a Software Development student passionate about building applications, learning new technologies, and solving technical problems. <br/>
+I mainly work with Javascript/Nose.js, Java/Spring Boot and React, with experience working with databases, authentication, REST APIs and full-stack applications.<br/>
+I also enjoy exploring Linux and troubleshooting technical problems to understand how things work under the hood.<br/>
 
  **<h3 align="left">Skills</h3>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
@@ -35,13 +35,10 @@ I also enjoy exploring Linux and troubleshooting technical problems to understan
 </div>
 
 **<h3>Current projects</h3>**
-<div style="padding:20px, border:1px solid white; border-radius:10px;">
   <div>
-    <h4>NikoMusic</h4>
-    <hr/>
+    **<h4>NikoMusic</h4>**
     <p>NikoMusic is a free web music player!</p>
   </div>
-</div>
 
 **<h3 align="left">GitHub Stats</h3>**
 <p align="left">
